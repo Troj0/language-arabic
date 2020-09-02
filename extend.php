@@ -2,8 +2,8 @@
 
 use Flarum\Extend;
 use Illuminate\Contracts\Events\Dispatcher;
-use Ziymed\LangArabic\Util\Str;
-use Ziymed\LangArabic\Listener;
+use Alterbyte\LanguageArabic\Util\Str;
+use Alterbyte\LanguageArabic\Listener;
 use Flarum\Discussion\Event\Saving;
 use Flarum\Foundation\Event\Validating;
 
