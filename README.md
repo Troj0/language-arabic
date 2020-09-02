@@ -18,7 +18,7 @@ php flarum cache:clear
 ## Deleting
 
 ```bash
-composer remove Alterbyte/language-arabic
+composer remove alterbyte/language-arabic
 php flarum cache:clear
 ```
 
