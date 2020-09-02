@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Ziymed\\LangArabic\\": "src/"
+      "Alterbyte\\LanguageArabic\\": "src/"
     }
   },
   "extra": {
