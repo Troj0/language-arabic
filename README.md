@@ -5,20 +5,20 @@
 Install Manualy : 
 
 ```bash
-composer require ziymed/lang-arabic
+composer require Alterbyte/language-arabic
 ```
 
 ## Updating
 
 ```bash
-composer update ziymed/lang-arabic
+composer update Alterbyte/language-arabic
 php flarum cache:clear
 ```
 
 ## Deleting
 
 ```bash
-composer remove ziymed/lang-arabic
+composer remove Alterbyte/language-arabic
 php flarum cache:clear
 ```
 
