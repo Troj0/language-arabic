@@ -5,13 +5,13 @@
 Install Manualy : 
 
 ```bash
-composer require Alterbyte/language-arabic
+composer require alterbyte/language-arabic
 ```
 
 ## Updating
 
 ```bash
-composer update Alterbyte/language-arabic
+composer update alterbyte/language-arabic
 php flarum cache:clear
 ```
 
