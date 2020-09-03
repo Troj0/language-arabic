@@ -1,6 +1,6 @@
 <?php
 
-use Ziymed\LangArabic\Util\Str;
+use Alterbyte\LanguageArabic\Util\Str;
 use Flarum\Database\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Schema\Builder;
