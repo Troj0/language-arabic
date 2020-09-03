@@ -1,6 +1,6 @@
 <?php
 
-namespace Ziymed\LangArabic\Util;
+namespace Alterbyte\LanguageArabic\Util;
 
 class Str
 {
