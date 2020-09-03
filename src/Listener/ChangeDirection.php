@@ -1,6 +1,6 @@
 <?php
 
-namespace Ziymed\LangArabic\Listener;
+namespace Alterbyte\LanguageArabic\Listener;
 
 use Flarum\Frontend\Document;
 use Flarum\Locale\LocaleManager;
