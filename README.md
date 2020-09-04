@@ -1,5 +1,7 @@
 # Arabic Language Pack for Flarum
 
+## This is the Simple Branch
+
 ## Installation
 
 Install Manualy : 
@@ -21,16 +23,11 @@ php flarum cache:clear
 composer remove alterbyte/language-arabic
 php flarum cache:clear
 ```
-
-## This ext can do :
+## This is the Simple Branch
+## This ext Version can only do :
 
 - Arabic translation.
-- RTL switch.
-- Discussion List Item rtl tooltip.
-- Discussion slug in arabic.
-- Tags slug in arabic.
-- Register username in arabic.
-- Change all title in arabic slug : composer migrate.
+
 
 ## Bundled extensions 
 
